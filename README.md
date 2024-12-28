@@ -18,7 +18,7 @@ Instalação
 1. Clonando o Repositório
 Primeiro, clone este repositório para sua máquina local:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Xavait/app_contatos.git
 2. Instalando Dependências
 Dentro da pasta do projeto, execute o seguinte comando para instalar as dependências do Laravel e do Composer:
 
